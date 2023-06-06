@@ -31,10 +31,16 @@ I am looking to change careers and to become a Junior Developer. In the future, 
 
 My other hobbies and interests include:
 - Musical Theatre
+
 [![A man sitting in an empty theatre](https://images.pexels.com/photos/109669/pexels-photo-109669.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)](https://www.pexels.com/photo/theater-interior-109669/)
+
 - Singing
+
 [![A woman singing into a microphone](https://images.pexels.com/photos/2531728/pexels-photo-2531728.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)](https://www.pexels.com/photo/photo-of-woman-singing-in-music-studio-2531728/)
+
 - Travelling
+
+[![A man hiking in the mountains](https://images.pexels.com/photos/1271619/pexels-photo-1271619.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)](https://www.pexels.com/photo/man-standing-on-a-rock-1271619/)
 
 
 ***
