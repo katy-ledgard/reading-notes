@@ -11,7 +11,7 @@
 
 ### What is a growth mindset?
 
-A growth mindset is used to desribe the way you think about your abilities and how we learn. It is believing that you can learn and develop on your talents and skills, rather than believing these stay the same and cannot change (known as a fixed mindset). Growth mindset is believing that you can learn and improve by working hard, not giving up, learning from mistakes and embracing different strategies and ways to learn.
+A growth mindset is used to desribe the way you think about your abilities and how we learn. It is believing that you can learn and develop on your talents and skills, rather than believing these will stay the same and cannot change (known as a fixed mindset). Growth mindset is believing that you can learn and improve by working hard, not giving up, learning from mistakes and embracing different strategies and ways to learn.
 
 > “I am not afraid of storms, for I am learning to sail my ship.” – Little Women
 
