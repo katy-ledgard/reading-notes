@@ -31,4 +31,4 @@ info here
 
 ### My Github
 
-link here
+You can find my Github page [here.](https://github.com/katy-ledgard?tab=repositories)
