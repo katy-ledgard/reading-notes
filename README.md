@@ -31,6 +31,7 @@ I am looking to change careers and to become a Junior Developer. In the future, 
 
 My hobbies and interests include:
 - Musical Theatre
+![A man sitting in an empty theatre](https://images.pexels.com/photos/109669/pexels-photo-109669.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 - Singing
 - Travelling
 - Education
