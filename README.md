@@ -19,9 +19,9 @@ A growth mindset is used to desribe the way you think about your abilities and h
 
 ### How do you keep yourself in a growth mindset?
 
-1. first way
-2. second way
-3. third way
+1. **Remember your improvements** - Think about where you started, how far you have come and remember all the things you have acheived so far! Reflect on previous struggles and experience and remind yourself that you were able to overcome this to get to where you are now.
+2. **Ask for Feedback** - ask for feedback, regardless of the outcome of your attempts. This will help you to learn what you did well and what areas you can improve. This will enable you to continue to learn and thrive.
+3. **Be Kind to yourself** - Remember it is okay to have challenges and you will not get everything right straight away. Know this is not a reflection on you and is just a *part of the process* of learning. Think about what you would say to your friend in your position and tell that to yourself!
 
 ***
 
