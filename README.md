@@ -21,7 +21,7 @@ I am using this website to record everything I am learning on this Fullstack Boo
   7. [Read: 07](./102/07.md)
   8. [Read: 08](./102/08.md) 
 - Code 102 Labs:  
-    1. [Lab: 01b](./102/Labs/Lab%2001b.md)
+    1. [Lab: 01b](./102/Labs/Lab-01b.md)
 
 
 + Code 202:
@@ -35,7 +35,7 @@ I am using this website to record everything I am learning on this Fullstack Boo
   8. [Read: 08](./201/08.md)
   9. [Read: 02](./201/09.md)
   10. [Read: 03](./201/10.md)
-  11. [Read: 04](./201/11.mdmd)
+  11. [Read: 04](./201/11.md)
   12. [Read: 05](./201/12.md)
   13. [Read: 06](./201/13.md)
   14. [Read: 07](./201/14.md)
