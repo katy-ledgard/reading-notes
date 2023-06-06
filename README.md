@@ -25,7 +25,16 @@ A growth...
 
 ### A little about me
 
-info here
+My name is Katy and I am currently completing a Full Stack MERN bootcamp with Tech Educators.  
+My previous experience includes working as a Teaching Assistant and supporting people with additional needs.  
+I am looking to change careers and to become a Junior Developer. In the future, I would love to combine my passion for Web Development and Education by working on projects that support learning and those with additional needs. 
+
+My hobbies and interests include:
+- Musical Theatre
+- Singing
+- Travelling
+- Education
+- 
 
 ***
 
