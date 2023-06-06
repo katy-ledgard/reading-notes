@@ -44,9 +44,6 @@ My other hobbies and interests include:
 
 [![A man hiking in the mountains](https://images.pexels.com/photos/1271619/pexels-photo-1271619.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)](https://www.pexels.com/photo/man-standing-on-a-rock-1271619/)
 
-- Reading
-[![An open book with a flower laying on it](https://images.pexels.com/photos/4825139/pexels-photo-4825139.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)](https://www.pexels.com/photo/a-flower-marker-on-an-open-book-4825139/)
-
 ***
 
 ### My Github
