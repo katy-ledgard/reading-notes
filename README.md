@@ -33,8 +33,7 @@ My other hobbies and interests include:
 - Musical Theatre
 [![A man sitting in an empty theatre](https://images.pexels.com/photos/109669/pexels-photo-109669.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)](https://www.pexels.com/photo/theater-interior-109669/)
 - Singing
-[![A woman singing into a microphone](![image](https://github.com/katy-ledgard/reading-notes/assets/135549123/856b68dc-297f-4137-a897-75364393c67e)](https://www.pexels.com/photo/photo-of-woman-singing-in-music-studio-2531728/)
-)]
+[![A woman singing into a microphone](https://images.pexels.com/photos/2531728/pexels-photo-2531728.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)](https://www.pexels.com/photo/photo-of-woman-singing-in-music-studio-2531728/)
 - Travelling
 
 
