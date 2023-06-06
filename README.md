@@ -29,13 +29,13 @@ My name is Katy and I am currently completing a Full Stack MERN bootcamp with Te
 My previous experience includes working as a Teaching Assistant and supporting people with additional needs.  
 I am looking to change careers and to become a Junior Developer. In the future, I would love to combine my passion for Web Development and Education by working on projects that support learning and those with additional needs. 
 
-My hobbies and interests include:
+My other hobbies and interests include:
 - Musical Theatre
-![A man sitting in an empty theatre](https://images.pexels.com/photos/109669/pexels-photo-109669.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+[![A man sitting in an empty theatre](https://images.pexels.com/photos/109669/pexels-photo-109669.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)](https://www.pexels.com/photo/theater-interior-109669/)
 - Singing
+![]()
 - Travelling
-- Education
-- 
+
 
 ***
 
