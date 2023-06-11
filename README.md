@@ -20,8 +20,6 @@ I am using this website to record everything I am learning on this Fullstack Boo
   6. [Read: 06](./102/06.md)
   7. [Read: 07](./102/07.md)
   8. [Read: 08](./102/08.md) 
-- Code 102 Labs:  
-    1. [Lab: 01b](./102/Labs/Lab-01b.md)
 
 
 + Code 202:
