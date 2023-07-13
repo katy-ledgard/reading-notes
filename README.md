@@ -22,7 +22,7 @@ I am using this website to record everything I am learning on this Fullstack Boo
   8. [Read: 08](./102/08.md) 
 
 
-+ Code 202:
++ Code 201:
   1. [Read: 01](./201/01.md)
   2. [Read: 02](./201/02.md)
   3. [Read: 03](./201/03.md)
@@ -39,3 +39,19 @@ I am using this website to record everything I am learning on this Fullstack Boo
   14. [Read: 14](./201/14.md)
   15. [Read: 15](./201/15.md)
 
+- Code 301
+  1. [Read: 01](./301/01.md)
+  2. [Read: 02](./301/02.md)
+  3. [Read: 03](./301/03.md) 
+  4. [Read: 04](./301/04.md)
+  5. [Read: 05](./301/05.md)
+  6. [Read: 06](./301/06.md)
+  7. [Read: 07](./301/07.md)
+  8. [Read: 08](./301/08.md)
+  9. [Read: 09](./301/09.md)
+  10. [Read: 10](./301/10.md)
+  11. [Read: 11](./301/11.md)
+  12. [Read: 12](./301/12.md)
+  13. [Read: 13](./301/13.md)
+  14. [Read: 14](./301/14.md)
+  15. [Read: 15](./301/15.md)
